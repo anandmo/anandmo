@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **anandmo/anandmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
 [![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandmo&show_icons=true&theme=radical)](https://github.com/anandmo/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandmo)](https://github.com/anandmo/github-readme-stats)
 
 
--->
